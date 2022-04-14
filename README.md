@@ -1,4 +1,4 @@
-# SwiftPackageName
+# RoutingKitExtensions
 
 <!-- Header Logo -->
 
@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/tvOS-15.0+-41465B.svg" />
     <img src="https://img.shields.io/badge/watchOS-8.0+-1FD67A.svg" />
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
-    <img src="https://github.com/Apppsaurus/SwiftPackageName/workflows/Build%20&%20Test/badge.svg" />
+    <img src="https://github.com/Apppsaurus/RoutingKitExtensions/workflows/Build%20&%20Test/badge.svg" />
     <a href="https://github.com/apple/swift-package-manager">
       <img src="https://img.shields.io/badge/spm-compatible-brightgreen.svg?style=flat" />
     </a>
@@ -35,20 +35,20 @@ _Description + docs coming soon_
 
 ### Xcode Projects
 
-Select `File` -> `Swift Packages` -> `Add Package Dependency` and enter `https://github.com/Apppsaurus/SwiftPackageName`.
+Select `File` -> `Swift Packages` -> `Add Package Dependency` and enter `https://github.com/Apppsaurus/RoutingKitExtensions`.
 
 
 ### Swift Package Manager Projects
 
-You can add `SwiftPackageName` as a package dependency in your `Package.swift` file:
+You can add `RoutingKitExtensions` as a package dependency in your `Package.swift` file:
 
 ```swift
 let package = Package(
     //...
     dependencies: [
         .package(
-            name: "SwiftPackageName",
-            url: "https://github.com/Apppsaurus/SwiftPackageName"
+            name: "RoutingKitExtensions",
+            url: "https://github.com/Apppsaurus/RoutingKitExtensions"
         ),
     ],
     //...
@@ -58,14 +58,14 @@ let package = Package(
 
 <!-- 🔑 UNCOMMENT THE INSTRUCTIONS BELOW IF THE GITHUB REPO NAME MATCHES THE LIBRARY NAME 👇 -->
 
-<!-- From there, refer to `SwiftPackageName` as a "target dependency" in any of _your_ package's targets that need it.
+<!-- From there, refer to `RoutingKitExtensions` as a "target dependency" in any of _your_ package's targets that need it.
 
 ```swift
 targets: [
     .target(
-        name: "SwiftPackageName",
+        name: "RoutingKitExtensions",
         dependencies: [
-          "SwiftPackageName",
+          "RoutingKitExtensions",
         ],
         ...
     ),
@@ -75,16 +75,16 @@ targets: [
 
 <!-- 🔑 UNCOMMENT THE INSTRUCTIONS BELOW IF THE GITHUB REPO NAME DOESN'T MATCH THE LIBRARY NAME 👇 -->
 
-From there, refer to the `SwiftPackageName` "product" delivered by the `SwiftPackageName` "package" inside of any of your project's target dependencies:
+From there, refer to the `RoutingKitExtensions` "product" delivered by the `RoutingKitExtensions` "package" inside of any of your project's target dependencies:
 
 ```swift
 targets: [
     .target(
-        name: "SwiftPackageName",
+        name: "RoutingKitExtensions",
         dependencies: [
             .product(
-                name: "SwiftPackageName",
-                package: "SwiftPackageName"
+                name: "RoutingKitExtensions",
+                package: "RoutingKitExtensions"
             ),
         ],
         ...
@@ -95,7 +95,7 @@ targets: [
 
 <!-- Proceed from above choice accordingly (and delete this comment) -->
 
-Then simply `import SwiftPackageName` wherever you’d like to use it.
+Then simply `import RoutingKitExtensions` wherever you’d like to use it.
 
 
 <!--
@@ -106,7 +106,7 @@ Then simply `import SwiftPackageName` wherever you’d like to use it.
 <!-- **📝 Note:** To make the library available to your entire project, you could also leverage the [functionality of the `@_exported` keyword](https://forums.swift.org/t/package-manager-exported-dependencies/11615) by placing the following line somewhere at the top level of your project:
 
 ```swift
-@_exported import SwiftPackageName
+@_exported import RoutingKitExtensions
 ``` -->
 
 
@@ -122,7 +122,7 @@ Then simply `import SwiftPackageName` wherever you’d like to use it.
 
 ## Contributing
 
-Contributions to `SwiftPackageName` are most welcome. Check out some of the [issue templates](./.github/ISSUE_TEMPLATE/) for more info.
+Contributions to `RoutingKitExtensions` are most welcome. Check out some of the [issue templates](./.github/ISSUE_TEMPLATE/) for more info.
 
 
 
@@ -142,4 +142,4 @@ For now, the best way to view the docs is to open the project in Xcode and run t
 
 ## 🏷 License
 
-`SwiftPackageName` is available under the MIT license. See the [LICENSE file](./LICENSE) for more info.
+`RoutingKitExtensions` is available under the MIT license. See the [LICENSE file](./LICENSE) for more info.

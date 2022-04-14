@@ -1,6 +1,6 @@
 #!/bin/bash
 
-OLD_PROJECT_NAME="SwiftPackageName"
+OLD_PROJECT_NAME="RoutingKitExtensions"
 NEW_PROJECT_NAME=""
 
 case $# in

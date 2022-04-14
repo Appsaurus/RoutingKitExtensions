@@ -7,7 +7,7 @@ let package = Package(
     name: "RoutingKitExtensions",
     platforms: [
         .iOS(.v10),
-        .macOS(.v12),
+        .macOS(.v10_15),
         .tvOS(.v15),
         .watchOS(.v8),
     ],

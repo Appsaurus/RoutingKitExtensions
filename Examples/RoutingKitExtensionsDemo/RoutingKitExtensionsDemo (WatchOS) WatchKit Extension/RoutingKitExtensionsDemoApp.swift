@@ -1,6 +1,6 @@
 //
-//  SwiftPackageNameDemoApp.swift
-//  SwiftPackageNameDemo (WatchOS) WatchKit Extension
+//  RoutingKitExtensionsDemoApp.swift
+//  RoutingKitExtensionsDemo (WatchOS) WatchKit Extension
 //
 //  Created by Brian Strobach on 1/14/22.
 //
@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct SwiftPackageNameDemoApp: App {
+struct RoutingKitExtensionsDemoApp: App {
     @SceneBuilder var body: some Scene {
         WindowGroup {
             NavigationView {

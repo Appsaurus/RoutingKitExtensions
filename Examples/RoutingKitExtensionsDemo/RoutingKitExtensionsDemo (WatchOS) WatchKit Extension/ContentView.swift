@@ -1,12 +1,12 @@
 //
 //  ContentView.swift
-//  Shared
+//  RoutingKitExtensionsDemo (WatchOS) WatchKit Extension
 //
 //  Created by Brian Strobach on 1/14/22.
 //
 
 import SwiftUI
-import SwiftPackageName
+import RoutingKitExtensions
 
 struct ContentView: View {
     var body: some View {

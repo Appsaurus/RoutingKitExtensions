@@ -1,4 +1,4 @@
-# ``SwiftPackageName``
+# ``RoutingKitExtensions``
 
 _[ A brief synopsis of this library ]._
 

@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E47ABC192791EFA00065ECF4"
-               BuildableName = "SwiftPackageNameDemo.app"
-               BlueprintName = "SwiftPackageNameDemo (macOS)"
-               ReferencedContainer = "container:SwiftPackageNameDemo.xcodeproj">
+               BlueprintIdentifier = "E47ABC8A2791F0F10065ECF4"
+               BuildableName = "RoutingKitExtensionsDemo (tvOS).app"
+               BlueprintName = "RoutingKitExtensionsDemo (tvOS)"
+               ReferencedContainer = "container:RoutingKitExtensionsDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -44,10 +44,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E47ABC192791EFA00065ECF4"
-            BuildableName = "SwiftPackageNameDemo.app"
-            BlueprintName = "SwiftPackageNameDemo (macOS)"
-            ReferencedContainer = "container:SwiftPackageNameDemo.xcodeproj">
+            BlueprintIdentifier = "E47ABC8A2791F0F10065ECF4"
+            BuildableName = "RoutingKitExtensionsDemo (tvOS).app"
+            BlueprintName = "RoutingKitExtensionsDemo (tvOS)"
+            ReferencedContainer = "container:RoutingKitExtensionsDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -61,10 +61,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E47ABC192791EFA00065ECF4"
-            BuildableName = "SwiftPackageNameDemo.app"
-            BlueprintName = "SwiftPackageNameDemo (macOS)"
-            ReferencedContainer = "container:SwiftPackageNameDemo.xcodeproj">
+            BlueprintIdentifier = "E47ABC8A2791F0F10065ECF4"
+            BuildableName = "RoutingKitExtensionsDemo (tvOS).app"
+            BlueprintName = "RoutingKitExtensionsDemo (tvOS)"
+            ReferencedContainer = "container:RoutingKitExtensionsDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

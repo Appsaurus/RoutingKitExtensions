@@ -14,24 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E47ABC5D2791F0D10065ECF4"
-               BuildableName = "SwiftPackageNameDemo (WatchOS).app"
-               BlueprintName = "SwiftPackageNameDemo (WatchOS)"
-               ReferencedContainer = "container:SwiftPackageNameDemo.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "YES"
-            buildForProfiling = "YES"
-            buildForArchiving = "YES"
-            buildForAnalyzing = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
                BlueprintIdentifier = "E47ABC132791EFA00065ECF4"
-               BuildableName = "SwiftPackageNameDemo.app"
-               BlueprintName = "SwiftPackageNameDemo (iOS)"
-               ReferencedContainer = "container:SwiftPackageNameDemo.xcodeproj">
+               BuildableName = "RoutingKitExtensionsDemo.app"
+               BlueprintName = "RoutingKitExtensionsDemo (iOS)"
+               ReferencedContainer = "container:RoutingKitExtensionsDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -53,16 +39,15 @@
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
-      allowLocationSimulation = "YES"
-      notificationPayloadFile = "PushNotificationPayload.apns">
+      allowLocationSimulation = "YES">
       <BuildableProductRunnable
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E47ABC5D2791F0D10065ECF4"
-            BuildableName = "SwiftPackageNameDemo (WatchOS).app"
-            BlueprintName = "SwiftPackageNameDemo (WatchOS)"
-            ReferencedContainer = "container:SwiftPackageNameDemo.xcodeproj">
+            BlueprintIdentifier = "E47ABC132791EFA00065ECF4"
+            BuildableName = "RoutingKitExtensionsDemo.app"
+            BlueprintName = "RoutingKitExtensionsDemo (iOS)"
+            ReferencedContainer = "container:RoutingKitExtensionsDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -76,10 +61,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E47ABC5D2791F0D10065ECF4"
-            BuildableName = "SwiftPackageNameDemo (WatchOS).app"
-            BlueprintName = "SwiftPackageNameDemo (WatchOS)"
-            ReferencedContainer = "container:SwiftPackageNameDemo.xcodeproj">
+            BlueprintIdentifier = "E47ABC132791EFA00065ECF4"
+            BuildableName = "RoutingKitExtensionsDemo.app"
+            BlueprintName = "RoutingKitExtensionsDemo (iOS)"
+            ReferencedContainer = "container:RoutingKitExtensionsDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

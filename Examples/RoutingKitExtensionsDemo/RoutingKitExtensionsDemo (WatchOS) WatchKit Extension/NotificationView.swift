@@ -1,6 +1,6 @@
 //
 //  NotificationView.swift
-//  SwiftPackageNameDemo (WatchOS) WatchKit Extension
+//  RoutingKitExtensionsDemo (WatchOS) WatchKit Extension
 //
 //  Created by Brian Strobach on 1/14/22.
 //
